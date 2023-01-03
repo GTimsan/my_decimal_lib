@@ -4,8 +4,8 @@
 
 
 #### Installation:
-Сборка проекта с помощью [Makefile](https://github.com/GTimsan/my_decimal/blob/main/src/Makefile) и нужной цели.
+Сборка проекта с помощью [Makefile](https://github.com/GTimsan/my_decimal_lib/blob/main/src/Makefile) и нужной цели.
 
-- [Тесты](https://github.com/GTimsan/my_decimal/blob/main/src/tests.c)
-- [Header](https://github.com/GTimsan/my_decimal/blob/main/src/s21_decimal.h)
-- [Реализация](https://github.com/GTimsan/my_decimal/blob/main/src/s21_decimal.c)
+- [Тесты](https://github.com/GTimsan/my_decimal_lib/blob/main/src/tests.c)
+- [Header](https://github.com/GTimsan/my_decimal_lib/blob/main/src/s21_decimal.h)
+- [Реализация](https://github.com/GTimsan/my_decimal_lib/blob/main/src/s21_decimal.c)
